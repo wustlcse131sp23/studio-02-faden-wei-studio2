@@ -8,10 +8,8 @@ public class pi {
 		{
 			double xPos = Math.random();
 			double yPos = Math.random();
-			if (xPos * xPos + yPos * yPos < 1)
-			{
-				
-			}
+		}
+
 
 	}
 
